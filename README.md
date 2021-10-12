@@ -2,7 +2,7 @@
 
 This is Jing Yang (Carl) 杨靖 양정
 
-Please go to [here](https://www.jingyangcarl.com) for more details about my experiences, works, and projects.
+Please go to [here @ jingyangcarl](https://www.jingyangcarl.com) for more details about my experiences, works, and projects.
 
 <!--
 **jingyangcarl/jingyangcarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
